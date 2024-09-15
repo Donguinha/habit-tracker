@@ -2539,11 +2539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GuilhermedeOliveiraR\\code\\habit-tracker\\HabitTracker\\HabitTracker.csproj",
+      "projectUniqueName": "C:\\Users\\GuilhermedeOliveiraR\\code\\habit-tracker\\HabitTracker.csproj",
       "projectName": "HabitTracker",
-      "projectPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\habit-tracker\\HabitTracker\\HabitTracker.csproj",
+      "projectPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\habit-tracker\\HabitTracker.csproj",
       "packagesPath": "C:\\Users\\GuilhermedeOliveiraR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\habit-tracker\\HabitTracker\\obj\\",
+      "outputPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\habit-tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GuilhermedeOliveiraR\\AppData\\Roaming\\NuGet\\NuGet.Config",
