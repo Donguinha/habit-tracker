@@ -1,9 +1,8 @@
-using HabitTracker.src.Domain;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace HabitTracker.src.Infrastructure;
+namespace HabitTracker.Infrastructure;
 
 public class SqliteDbContext : IdentityDbContext<IdentityUser>
 {
