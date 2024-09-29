@@ -1,6 +1,10 @@
 using HabitTracker.Application.Services;
 using HabitTracker.Identity.Services;
 using HabitTracker.Infrastructure;
+using Hangfire;
+using Hangfire.SQLite;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
